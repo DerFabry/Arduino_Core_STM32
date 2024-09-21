@@ -862,6 +862,7 @@ User can add a STM32 based board following this [wiki](https://github.com/stm32d
 | Status | Device(s) | Name | Release | Notes |
 | :----: | :-------: | ---- | :-----: | :---- |
 | :green_heart:  | STM32WLE5JB | ELV-BM-TRX1 | *2.8.0* |  |
+| :yellow_heart:  | STM32L052C8U6| ELV-BM-MCU | *2.8.1* |  |
 
 ## Next release
 
