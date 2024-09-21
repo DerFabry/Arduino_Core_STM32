@@ -13146,9 +13146,13 @@ ELV_Modular_System.menu.pnum.ELV_BM_TRX1.debug.svd_file={runtime.tools.STM32_SVD
 ELV_Modular_System.menu.pnum.ELV_BM_MCU=ELV-MCU-Base ELV_BM_MCU
 ELV_Modular_System.menu.pnum.ELV_BM_MCU.upload.maximum_size=65536
 ELV_Modular_System.menu.pnum.ELV_BM_MCU.upload.maximum_data_size=8192
+ELV_Modular_System.menu.pnum.ELV_BM_MCU.build.mcu=cortex-m0plus
 ELV_Modular_System.menu.pnum.ELV_BM_MCU.build.board=ELV_BM_MCU
+ELV_Modular_System.menu.pnum.ELV_BM_MCU.build.series=STM32L0xx
 ELV_Modular_System.menu.pnum.ELV_BM_MCU.build.product_line=STM32L052xx
 ELV_Modular_System.menu.pnum.ELV_BM_MCU.build.variant=STM32L0xx/L052C(6-8)(T-U)_L053C(6-8)(T-U)_L062C8U_L063C8(T-U)
+ELV_Modular_System.menu.pnum.ELV_BM_MCU.build.peripheral_pins=-DARDUINO_ELV_BM_MCU
+ELV_Modular_System.menu.pnum.ELV_BM_MCU.build.st_extra_flags=-D{build.product_line}
 ELV_Modular_System.menu.pnum.ELV_BM_MCU.debug.svd_file={runtime.tools.STM32_SVD.path}/svd/STM32L0xx/STM32L052.svd
 
 # Upload menu
